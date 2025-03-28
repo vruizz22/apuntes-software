@@ -1,0 +1,7 @@
+# Ignorar archivos de latex
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+Historias_de_usuario_grupo56.pdf
